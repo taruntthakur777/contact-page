@@ -15,3 +15,7 @@ It includes a profile section, bio, projects showcase, and contact details.
 ---
 
 ## 📂 Project Structure
+
+📁 contact-page
+┣ 📄 index.html
+┣ 📄 style.css
